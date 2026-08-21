@@ -1,3 +1,8 @@
+# TITLE :- Scikit-learn: Data Preprocessing and Model Performance Evaluation
+# NAME :- RACHIT ZAVERI
+# ID :- 202618015
+# DATASET :- https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
 # Hotel Booking Cancellation Prediction
 
 # This project uses the **Hotel Booking Demand dataset** to predict whether a hotel booking will be canceled using Scikit-learn classification models. The project compares two preprocessing approaches — **StandardScaler** and **MinMaxScaler** — combined with **KNN imputation** and categorical encoding.
