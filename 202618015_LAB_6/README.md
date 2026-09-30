@@ -1,5 +1,3 @@
-# Machine Learning Lab 6
-
 ## Overview
 
 This lab focuses on applying machine learning techniques to two different types of data: images and text.
