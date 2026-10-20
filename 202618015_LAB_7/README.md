@@ -2,7 +2,7 @@
 
 **Student Name:** Rachit Zaveri  
 **Student ID:** 202618015  
-**Course:** DS605 – Machine Learning
+**Course:** DS605 – Fundamentals of Machine Learning
 
 ## 1. Project Overview
 
